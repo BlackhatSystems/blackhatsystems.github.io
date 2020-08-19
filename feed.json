@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Wew",
+    "description": "",
+    "home_page_url": "https://blackhatsystems.github.io",
+    "feed_url": "https://blackhatsystems.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://blackhatsystems.github.io/media/website/android-chrome-192x192.png",
+    "author": {
+        "name": "Wew"
+    },
+    "items": [
+    ]
+}
